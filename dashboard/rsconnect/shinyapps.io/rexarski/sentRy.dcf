@@ -1,0 +1,12 @@
+name: sentRy
+title: sentRy
+username:
+account: rexarski
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1673535
+bundleId: 2740546
+url: https://rexarski.shinyapps.io/sentRy/
+when: 1579497720.95808
+asMultiple: FALSE
+asStatic: FALSE
